@@ -55,3 +55,8 @@ This dashboard helps users understand labor market trends and identify the most 
 This project successfully transformed raw scraped job vacancy data into a clean and structured dataset with consistent formatting and labeling.  
 The final dataset, containing **628 records**, is ready to be used for analysis and machine learning modeling.  
 This process demonstrates the importance of careful data preparation as a foundation for generating accurate and meaningful insights in data-driven projects.
+
+---
+
+**Author:** Murti Sari Dewi 
+**Year:** 2025  
